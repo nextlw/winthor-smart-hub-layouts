@@ -1,0 +1,43 @@
+{
+    "tabela": {
+        "campos": [
+            {
+                "nome": "ORDEMEXECUCAO",
+                "valor": "3"
+            },
+            {
+                "nome": "IDROTASERVICO",
+                "valor": "COMERCIAL-GUAIRA - Refresh Token"
+            },
+            {
+                "nome": "IDINTEGRACAOCLASSEMETODO",
+                "valor": "AUTENTICADORREFRESHTOKENAPI"
+            },
+            {
+                "nome": "ATIVO",
+                "valor": "N"
+            },
+            {
+                "nome": "IDDEPENDENTE",
+                "valor": ""
+            },
+            {
+                "nome": "DTULTALTER",
+                "valor": ""
+            },
+            {
+                "nome": "CODEMPALTER",
+                "valor": ""
+            },
+            {
+                "nome": "DESCRICAO",
+                "valor": "comercial-guaira Clientes"
+            },
+            {
+                "nome": "ID",
+                "valor": ""
+            }
+        ],
+        "nome": "PCINTEGRACAOFLUXOEXECUCAO"
+    }
+}
